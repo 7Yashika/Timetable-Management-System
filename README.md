@@ -1,7 +1,3 @@
-# Timetable-Management-System
-Web-based timetable management system using Flask, MongoDB, and Google Sheets API
-
-
 # Timetable Management System
 
 A web-based application to automate academic timetable generation for institutions.
